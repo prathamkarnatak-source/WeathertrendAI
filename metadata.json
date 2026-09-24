@@ -1,0 +1,6 @@
+{
+  "name": "Weather Data Analysis and Prediction",
+  "description": "Analyze historical weather time series data, fit linear, polynomial, and harmonic regression models, and predict future temperature trends with statistical evaluation and AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
